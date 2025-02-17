@@ -5,7 +5,7 @@
 
 <img src="https://github.com/bhavanabraj/bhavanabraj/blob/main/images/analyst-girl.gif?raw=true" href="https://github.com/bhavanabraj" alt="Bhavana"  width="60%"/><br> 
   
-<p><strong>Highly skilled analyst with a Master of Science in Business Analytics from the California State University EastBay
+<p><strong>
 
 <br>
 
