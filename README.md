@@ -28,8 +28,6 @@
 
 
 
-📚 I’m currently learning AI & Machine Learning. 🐧
-
 💡 Ask me about: Transforming data into actionable insights, business strategy, analytics-driven decision-making, and optimizing processes for impact.
 
 🎓 MS in Business Analytics | Passionate about data storytelling, predictive modeling, and uncovering trends to drive smarter decisions.
