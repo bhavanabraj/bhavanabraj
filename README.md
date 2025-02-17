@@ -28,9 +28,11 @@
 
 
 
--  <img alt="GIF" src="https://github.com/bhavanabraj/bhavanabraj/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **AI & Machine Learning**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/bhavanabraj/bhavanabraj/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Transforming data into actionable insights.**. <br>
-- 🎓 MS in Business Analytics | Passionate about data storytelling, predictive modeling, and uncovering trends to drive smarter decisions.
+📚 I’m currently learning AI & Machine Learning. 🐧
+
+💡 Ask me about: Transforming data into actionable insights, business strategy, analytics-driven decision-making, and optimizing processes for impact.
+
+🎓 MS in Business Analytics | Passionate about data storytelling, predictive modeling, and uncovering trends to drive smarter decisions.
 
 📊 Driven by Data: I love working with numbers, analyzing patterns, and building solutions that turn raw data into meaningful business insights.
 
@@ -39,4 +41,5 @@
 💡 Believer in Continuous Learning: Always curious about the latest trends in AI, deep learning, and data science to stay ahead of the curve.
 
 🤝 Let’s Connect! Whether it’s about analytics, machine learning, or industry trends, I’d love to exchange ideas and insights.
-- <img src="https://github.com/bhavanabraj/bhavanabraj/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[Bhavana Mysore Basavaraju](https://www.linkedin.com/in/bhavana-mysore-basavaraju/)**<br>
+
+🔗 Find me on LinkedIn: **[Bhavana Mysore Basavaraju](https://www.linkedin.com/in/bhavana-mysore-basavaraju/)**<br>
