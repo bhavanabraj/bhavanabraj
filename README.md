@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<p><strong>Hello 👋 My name is Bhavana, I'm a data and business analyst who loves diving into complex problems, uncovering insights, and making data-driven decisions that drive meaningful impact. I enjoy transforming raw information into actionable strategies, optimizing processes, and finding innovative ways to improve efficiency. Whether it's identifying trends, measuring success, or solving critical challenges, I thrive on turning data into real-world solutions.
+<p><strong>Hello 👋 My name is Bhavana, I'm a data and business analyst who loves diving into complex problems, uncovering insights, and making data-driven decisions that drive meaningful impact. Whether it's identifying trends, measuring success, or solving critical challenges, I thrive on turning data into real-world solutions.
 
 
 <img src="https://github.com/bhavanabraj/bhavanabraj/blob/main/images/analyst-girl.gif?raw=true" href="https://github.com/bhavanabraj" alt="Bhavana"  width="60%"/><br> 
